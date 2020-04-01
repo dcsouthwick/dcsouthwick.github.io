@@ -1,9 +1,17 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Université de Genève
+  dates: 2016 - 2019
+  qualification: MSc - Informatique (Computer Science)
+  #quote: >
+  #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Thesis topic on Fog & Edge Computing topologies and platforms
+- layout: left
+  name: University of Iowa
+  dates: 2007 - 2013
+  qualification: MSEE - Electrical Engineering
+  quote: >
+    Seamans Center for the Engineering Arts and Sciences
+  description: | # this will include new lines to allow paragraphs
+    Thesis topic low power autonomous network hardware & circuit design
